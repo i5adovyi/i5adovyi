@@ -2,6 +2,10 @@
 
 **Senior QA Engineer (SDET)** · Poland · [LinkedIn](https://www.linkedin.com/in/igorsadovyi/)
 
+> ## [Explore my QA portfolio ↗](https://i5adovyi.github.io/)
+>
+> How could a reviewer still approve a product after its ingredient list disappeared from the saved record? [Read the investigation →](https://i5adovyi.github.io/experience/genai-product-labels/)
+
 I’ve worked in software quality since 2014. My experience spans web and mobile products, distributed systems on AWS and applications that use generative AI. I help teams decide whether a change is ready to ship, and I write the tests and tools that give us the evidence to make that call.
 
 ## What I bring to a team
