@@ -31,5 +31,3 @@ I’ve worked in software quality since 2014. My experience spans web and mobile
 | [Mobile Automation Lab](https://i5adovyi.github.io/is-qa-appium/) | Android automation with Appium, from locating elements to investigating failures. |
 | [SIGNAL — JavaScript & TypeScript Academy](https://i5adovyi.github.io/signal-js-ts-academy/) | JavaScript fundamentals, typed application logic and browser automation. |
 | [JavaScript Fieldwork](https://i5adovyi.github.io/javascript-fieldwork/) | Hands-on JavaScript exercises you can edit and run in the browser. |
-
-Forge Playwright Academy and AI for SDET were generated with Codex.
